@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<dao.Banco>
+  <pos>0</pos>
+  <usuarios>
+    <model.Usuario>
+      <cpf>456</cpf>
+      <idade>20</idade>
+      <altura>90.0</altura>
+      <peso>70.0</peso>
+      <nome>Yaggo</nome>
+      <imc>0.0</imc>
+    </model.Usuario>
+  </usuarios>
+</dao.Banco>
